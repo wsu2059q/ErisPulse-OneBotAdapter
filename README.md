@@ -41,6 +41,7 @@ OneBot协议请求处理模块，用于处理OneBot的请求事件。
 ## 使用示例
 
 ```python
+import asyncio
 from ErisPulse import sdk
 
 # 初始化SDK
