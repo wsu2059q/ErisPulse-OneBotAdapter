@@ -82,6 +82,6 @@ sdk.env.set("OneBotAdapter", {
 
 ## 参考链接
 
-- [ErisPulse 主库](https://github.com/wsu2059q/ErisPulse/)
-- [ErisPulse 开发指南](https://github.com/wsu2059q/ErisPulse/blob/main/%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.md)
+- [ErisPulse 主库](https://github.com/ErisPulse/ErisPulse/)
+- [ErisPulse 模块开发指南](https://github.com/ErisPulse/ErisPulse/tree/main/docs/DEVELOPMENT.md)
 
